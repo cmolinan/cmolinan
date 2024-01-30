@@ -1,6 +1,6 @@
 <h1> Hi, I'm Carlos Molina !! <img src="https://media0.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e473dc6tegp31dr694avo9ip5u97ap7lf9aucg3315f&rid=giphy.gif&ct=s" width="70"></h1>
 
-<h3><em>I am a Full Stack developer fascinated by frameworks like Ruby on Rails and React and passionate about ideating, conceptualizing, and producing quality end products focused on the client's business and end-user.  Also, I love my ability to learn new things quickly and work collaboratively remotely.
+<h3><em>I am a Full Stack developer fascinated by frameworks like Ruby on Rails, Express JS and React and passionate about ideating, conceptualizing, and producing quality end products focused on the client's business and end-user.  Also, I love my ability to learn new things quickly and work collaboratively remotely.
 </em></h3>
 <br>
 A little more about me ...
@@ -9,7 +9,7 @@ A little more about me ...
 const carlosMolina = {
   openTowork: true,
   lookingFor: "Full Stack Web developer position",
-  languagesAndTools: [Ruby on Rails, React, Redux, PostgreSQL, JavaScript,  HTML/CSS, Rest API],
+  languagesAndTools: [Ruby on Rails, Express JS, React, Redux, MySql, PostgreSQL, JavaScript,  HTML/CSS, Rest API],
   askMeAbout: [Running, Trekking, Movies],
   reachMe: 'cmolinan@gmail.com'
 }
